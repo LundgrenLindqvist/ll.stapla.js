@@ -128,9 +128,9 @@ $(function() {
                 var height = $(this).outerHeight();
                 
                 if (pileIndex%2 == 0) {
-                    var offsetleft = winWidth-(pileSize/2)+pileMargin*2;
+                    var offsetleft = winWidth-(pileSize/2)+(pileMargin*2);
                 } else {
-                    var offsetleft = -(pileSize/2);
+                    var offsetleft = -((pileSize/2)-pileMargin);
                 }
                 
                 var offsettop = (pileSize/2)-(height/2) + ( (row-1)*pileSize + (row-1)*(pileMargin*3) )+topMargin;

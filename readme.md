@@ -1,7 +1,7 @@
-#ll.stapla.js
+# ll.stapla.js
 
     By: Lundgren+Lindqvist
-    http://dev.lundgrenlindqvist.se
+    http://lundgrenlindqvist.se/development
 
 ## Introduction
 
@@ -9,4 +9,4 @@ Stapla is a fun way of organizing image galleries or other elements on your webs
 
 ## Demo
 
-http://dev.lundgrenlindqvist.se/scripts/stapla/
+http://lundgrenlindqvist.se/scripts/stapla/
